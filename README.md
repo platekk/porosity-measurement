@@ -1,6 +1,9 @@
 # Porosity measurement
 
 This code was created to measure percentage of porosity in thermally sprayed coatings.
+To run, save (i) "porosity_local" or (ii) "porosity_gdrive" file and open using (i) local software or (ii) [Google Colab](https://colab.research.google.com/?hl=pl). 
+
+
 As input, SEM image with default dimension of 1224x2048 pixs are used (two detectors used). Optinally, images created using one detector can be also proceed.
 
 [<img src="https://github.com/platekk/porosity-measurement/assets/148436343/5c815c2e-b7cb-4983-83fa-72993acc268c" width="500"/>]([![image](https://github.com/platekk/porosity-measurement/assets/148436343/6ab761c2-88e5-48ba-87f9-c19b8641474f))
