@@ -13,7 +13,7 @@ As input, SEM image with default dimension of 1224x2048 or 1224x1024 are used.
 All photos should be placed in the same folder, stored on local disc (porosity_local) or Google Drive (porosity_gdrive). Additionally, Excel fille (file_name.xlsx) for output storege should be also created and - in case of GDrive version - imported to Google Drive. Both images folder and excel file should be placed in same location (same folder). All analyzed images should present the same sample and be made with the same contrast and brightess settings. 
 
 Before measurement, adjustment of cropping, contrast and treshold settings will be carried out on random image selected from the folder. 
-As a result, mean porosity value with standard deviation will be printed. Detail data about porosity value measured for each image will be stored in excel file with corresponding image name. 
+As a result, mean porosity value with standard deviation will be printed. Detailed data about porosity value measured for each image will be stored in excel file with corresponding image name. 
 
 [<img src="https://github.com/platekk/porosity-measurement/assets/148436343/484b5f63-b370-40b8-8949-ef905d1f09f2" width="250"/>]([image.png](https://github.com/platekk/porosity-measurement/assets/148436343/484b5f63-b370-40b8-8949-ef905d1f09f2)) 
 <em>Input image</em>
